@@ -1,0 +1,5 @@
+puts "An array is an ordered, indexed collection of any object, "
+puts "whereas a hash is a dictionary-like collection of unique "
+puts "keys and their values. In other words, "
+puts "an array always uses integers as its index, "
+puts "whereas a hash allows you to choose any object type as an index."

@@ -1,0 +1,5 @@
+puts "Yes, hash values can be arrays.  For example:"
+puts "hash = {names: [\"bob\", \"tom\" ], colors: [\"orange\", \"purple\"] }"
+puts ""
+puts "Yes, you can have an array of hashes.  For example:"
+puts "array = [{name: \"bob\"}, {color: \"orange\"} ]"
